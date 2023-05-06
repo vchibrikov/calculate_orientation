@@ -1,6 +1,6 @@
 # calculate_orientation
 
-calculate_orientation.py is a Python script that allows to define orientation of tracked segments on imported images, and saves it to a CSV file. This script is designed to work with a variety of image file formats such as JPEG, PNG, and BMP.
+calculate_orientation.py is a Python script that allows to define orientation of chain segments on imported images, and saves it to a CSV file. This script is designed to work with a variety of image file formats such as JPEG, PNG, and BMP.
 
 # System requirements
 
