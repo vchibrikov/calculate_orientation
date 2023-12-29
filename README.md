@@ -25,5 +25,14 @@ extensions = ('.jpeg','.tiff', '.jpg', '.tif')
 
 The script will allow to define chain segments, and accodring to the chosen points, it will calculate segment orientation to horizontal axis of an image according to the law of cosines. Then, output images of tracked segments will be stored on both raw and white background images. Also, it will generate a test_data.csv file, which will contain image filename, and angle values of tracked segments in degrees. 
 
+# Output
+
+One output image is the one with tracked segments on raw image:
+![BCKGM_0 25_TOP 071_RAW_CHAIN](https://github.com/vchibrikov/calculate_orientation/assets/98614057/8fbdb80e-6ca2-4df2-8503-5c8bb0e40cde)
+
+The other output image is the one with tracked segments on white background:
+![BCKGM_0 25_TOP 071_WHITE_CHAIN](https://github.com/vchibrikov/calculate_orientation/assets/98614057/f1160c7d-5a6c-49f3-8348-3de68d8089b2)
+
+
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details. Feel free to use and modify it as you wish. If you find any bugs or issues with the script, please create an issue in the GitHub repository.
